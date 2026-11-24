@@ -1,2 +1,2 @@
 # Python-projects
-A collection of projects I worked on 
+A collection of projects I am working on. These are straightforward projects that will interest the upcoming and developing programmer. In the collection you will see a wide range of project that will help in your journey of language learning and search for knowledge. They include Book management system, Guess the number,rock paper scissors, etc. among many others. So it will be best if you involve yourself actively in these projects and grow.
